@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @o-wael
-- 👀 I’m interested in pragramming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on programming
+- 👀 I’m interested in learning new pragramming techniques
+- 🌱 I’m currently learning competitive programming
+- 💞️ I’m looking to collaborate on software engineering
 - 📫 How to reach me ... omarwaelawad@yahoo.com
 
 <!---
