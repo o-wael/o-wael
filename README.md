@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=80&pause=1000&center=true&vCenter=true&multiline=true&width=1920&height=220&lines=Hey+there!+My+name+is+Omar+Wael.;I+am+a+CSE+Student+%40GUC.)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif?cid=ecf05e47ob5cukwewh20ruplihwhyy6qs7bo0hy22n0z0x1j&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
 </div>
